@@ -1,7 +1,7 @@
 # PartSelect Support Assistant
 
 **Live Demo:**
-https://your-vercel-url.vercel.app
+https://part-select-chat-agent.vercel.app/
 
 ## Overview
 
